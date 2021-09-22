@@ -18,27 +18,35 @@ Summary: This project is designed as a manual for the creation of a testnet for 
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%203.PNG"></img></p>
 <br>
 ## Step 4
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%204.PNG"></img></p>
 <br>
 ## Step 5
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%205.PNG"></img></p>
 <br>
 ## Step 6
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%206.PNG"></img></p>
 <br>
 ## Step 7
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%207.PNG"></img></p>
 <br>
 ## Step 8
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%208.PNG"></img></p>
 <br>
 ## Step 9
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%209.PNG"></img></p>
 <br>
 ## Step 10
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%2010.PNG"></img></p>
 <br>
 ## Step 11
+<br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%2011.PNG"></img></p>
 <br>
 ## Step 12

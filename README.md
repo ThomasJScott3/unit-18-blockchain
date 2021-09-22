@@ -8,10 +8,12 @@ Summary: This project is designed as a manual for the creation of a testnet for 
 
 <br>
 ### Step 2
+
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%202.PNG"></img></p>
 
 <br>
 ### Step 3
+
 <p align="center"><img src="https://github.com/ThomasJScott3/unit-18-blockchain/blob/main/Screenshots/Step%203.PNG"></img></p>
 
 <br>

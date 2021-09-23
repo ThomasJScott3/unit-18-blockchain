@@ -1,11 +1,13 @@
 # Unit-18: Proof of Authority Development Chain
 
-Summary: This project is designed as a manual for the creation of a testnet for a fictitious bank. The following guide uses visuals in accordance with the framework set out in the assignment instructions. The password for each account has been provided to the central grader. 
+Summary: 
+<br>
+This project is designed as a manual for the creation of a testnet for a fictitious bank. The following guide uses visuals in accordance with the framework set out in the assignment instructions. The password for each account has been provided to the central grader. 
 
 Before you start:
 <br>
 You will need to create a new directory for your new network. You can all it anything you want. You will then have to create a 'screenshots' subfolder as well.
-<br>
+<p>
 Step 1
 
 <br>

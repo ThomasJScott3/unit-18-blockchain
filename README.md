@@ -142,6 +142,7 @@ Next, refresh your second account's wallet. You should have very little ETH left
 <br>
 Now go to your first account. As you can see, you have almost double the test ETH! Pat yourself on the back, because you have just executed a multinodal transaction. You have sent test ETH one way and then sent even more back the other way!
 <p>
+ 
 <b>--End of Manual--</b>
 
 
